@@ -45,7 +45,7 @@ libraryDependencies ++= {
     "org.backuity.clist"          %% "clist-core"             % "3.5.1",
     "org.backuity.clist"          %% "clist-macros"           % "3.5.1" % "provided",
     "com.outr"                    %% "scribe-slf4j"           % "2.8.3",
-    "org.scalatest"               %% "scalatest"              % "3.1.0" % Test
+    "org.scalatest"               %% "scalatest"              % "3.1.4" % Test
   )
 }
 
